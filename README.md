@@ -4,3 +4,5 @@
 
 • The web service allows users to search movies according to the keyword and view movies information: Movie Trailer, Poster, Overview, Rating, and Release date.
 
+
+Tool: Slim
